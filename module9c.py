@@ -168,7 +168,7 @@ plt.plot(time, speed)
 plt.grid()
 plt.xlabel('time - sec')
 plt.ylabel('RPS')
-plt.savefig(f'speed_nick.png')
+plt.savefig(f'speed.png')
 
 plt.clf()
 
